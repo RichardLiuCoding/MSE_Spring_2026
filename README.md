@@ -6,7 +6,7 @@ Course Description:
 	We begin with the scientific Python ecosystem and the classical mathematical tools: linear and nonlinear equations, ordinary and partial differential equations, and basic regression and functional fitting. From there, we move to methods emerging at the interface between data and physics, including Physics-Informed Neural Networks (PINNS), NeuralODEs, and Neural Operators. We follow with Bayesian methods for data analysis and prediction, focusing on how to combine mathematical rigor with prior knowledge and domain beliefs in a transparent and traceable way. We then introduce causal analysis, one of the fastest-growing areas in modern machine learning, and contrast causal reasoning with purely correlative models. In the final part of the course, we focus on probabilistic decision-making under uncertainty - the keystone of automated and autonomous experimentation in chemistry, materials science, and physics. 
 	By the end, you will have hands-on experience in modeling chemical and physical processes, learning physics from observational data, and designing workflows that can drive an autonomous lab of the future. The instructor, Sergei V. Kalinin, has over 15 years of experience applying ML to imaging and materials science at Oak Ridge National Laboratory and spent a year in Amazon’s special projects group, bringing a practical perspective on how these methods operate in real-world settings.
 
-	The tentative course outline is:
+The tentative course outline is:
 
 1. Mathematical Methods in Physical Science
 •	Mathematics as the backbone of physical sciences
@@ -60,3 +60,4 @@ Course Description:
 •	Deep surrogate models in scientific workflows
 •	LLM integration via rewards, priors, and tool use
 •	LLMs as planners and orchestrators in automated labs
+
